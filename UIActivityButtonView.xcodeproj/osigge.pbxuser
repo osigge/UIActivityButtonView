@@ -1,0 +1,106 @@
+// !$*UTF8*$!
+{
+	078D1F7D119497C2001EBF6A /* UIActivityButtonView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = UIActivityButtonView;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	078D1F8C119497D6001EBF6A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	078D1F8D119497D6001EBF6A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1D6058900D05DD3D006BFB54 /* UIActivityButtonView */ = {
+		activeExec = 0;
+		executables = (
+			078D1F7D119497C2001EBF6A /* UIActivityButtonView */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1431, 873}}";
+			sepNavSelRange = "{253, 0}";
+			sepNavVisRange = "{0, 289}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3498, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3549, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{3599, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4295}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1431, 2275}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1486}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 078D1F7D119497C2001EBF6A /* UIActivityButtonView */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* UIActivityButtonView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* UIActivityButtonView */,
+		);
+		codeSenseManager = 078D1F8D119497D6001EBF6A /* Code sense */;
+		executables = (
+			078D1F7D119497C2001EBF6A /* UIActivityButtonView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1253,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 294950850;
+			PBXWorkspaceStateSaveDate = 294950850;
+		};
+		sourceControlManager = 078D1F8C119497D6001EBF6A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
