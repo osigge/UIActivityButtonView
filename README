@@ -1,0 +1,5 @@
+This example project shows how to switch the standard UIBarButtonItem with an UIBarButtonItem with an UIActivityIndicatorView including animation.
+
+TODOS:
+- Use the transparent image of the standard background of UIBarButtonItem
+- Fix glossy for programmatic rounded corners and color
